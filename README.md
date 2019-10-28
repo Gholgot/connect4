@@ -1,6 +1,6 @@
 # Connect4
 
-Connect4 is a JQuery Plugin for a canvas element which turns it into a Connect4 game. (School project from June 2017)
+is a JQuery Plugin for a canvas element which turns it into a Connect4 game. (School project from June 2017)
 
 ```javascript
 /* Select your canvas by Id
@@ -28,7 +28,7 @@ $("#game").p4();
 ```
 _______
 
-###Features: 
+### Features: 
 - Grid Size
 - Number of holes in grid
 - Players Color
